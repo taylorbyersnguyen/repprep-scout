@@ -1,1 +1,1 @@
-# repprep.ai
+# repprep-ai-scout
